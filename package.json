@@ -41,7 +41,7 @@
     "webpack-node-externals": "^=3.0.0"
   },
   "dependencies": {
-    "cosmiconfig": "^9.0.0",
+    "cosmiconfig": "^10.0.0",
     "css-loader": "^7.1.4",
     "lodash": "^4.17.15",
     "postcss": "^8.4.7",
